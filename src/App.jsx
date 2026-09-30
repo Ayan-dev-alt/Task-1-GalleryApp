@@ -10,7 +10,7 @@ import Loading from "./components/Loading";
 import ErrorBox from "./components/ErrorBox";
 import Lightbox from "./components/Lightbox";
 
-const API_KEY = import.meta.env.VITE_PIXABAY_API_KEY;
+const API_KEY ="57753034-608d2174e87d8ea08cf5edd76"
 
 const App = () => {
   const [data, setData] = useState([]);
