@@ -1,0 +1,7 @@
+@import "tailwindcss";
+* {
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+  word-spacing: break-word;
+  letter-spacing: 0.5px;
+}
